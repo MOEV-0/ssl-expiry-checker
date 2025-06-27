@@ -1,0 +1,14 @@
+{
+    "daysBeforeExpiry": 30,
+    "emailGroup": [
+      "you@example.com"
+    ],
+    "smtp": {
+      "server": "smtp.example.com",
+      "port": 587,
+      "username": "you@example.com",
+      "password": "yourpassword",
+      "from": "you@example.com"
+    }
+  }
+  
